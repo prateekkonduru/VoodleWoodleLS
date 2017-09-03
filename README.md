@@ -1,1 +1,1 @@
-"# VoodleWoodleLS" 
+The user inputs n lines, with one name in each line. The program prints out the voodlewoodlel version of each name I,e it replaces all the vowels by oodle to the names that the user inputs.
